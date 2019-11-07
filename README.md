@@ -29,3 +29,5 @@ module.exports = config
 ## Editor integration
 
 ![editorIntegration](assets/editorIntegration.png)
+
+![intelliSense](assets/intelliSense.png)
