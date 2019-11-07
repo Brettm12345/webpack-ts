@@ -28,4 +28,4 @@ module.exports = config
 
 ## Editor integration
 
-<img src="assets/editorIntegration.png" />
+![editorIntegration](assets/editorIntegration.png)
