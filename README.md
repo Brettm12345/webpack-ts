@@ -1,4 +1,6 @@
 # Webpack TS
+![npm bundle size](https://img.shields.io/bundlephobia/minzip/webpack-ts?style=flat-square) ![David](https://img.shields.io/david/brettm12345/webpack-ts?style=flat-square)
+
 
 A neat little tool that helps you make webpack configs with typescript typings.
 
