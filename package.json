@@ -1,0 +1,29 @@
+{
+  "name": "fp-ts-fs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint --ext .ts ./src",
+    "test": "jest",
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "dependencies": {
+    "rambda": "^4.0.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.22",
+    "@types/webpack": "^4.39.8",
+    "awesome-ts-loader": "^1.3.1",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.7.2",
+    "webpack-node-externals": "^1.7.2",
+    "webpackbar": "^4.0.0"
+  },
+  "optionalDependencies": {
+    "webpack": "^4.41.2"
+  }
+}
