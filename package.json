@@ -12,6 +12,7 @@
   "dependencies": {
     "rambda": "^4.0.2"
   },
+  "repository": "https://github.com/brettm12345/webpack-ts",
   "devDependencies": {
     "@types/jest": "^24.0.22",
     "@types/webpack": "^4.39.8",
